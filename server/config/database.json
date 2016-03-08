@@ -1,0 +1,12 @@
+{
+  "development": {
+    "database": "tickets_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "tickets_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
